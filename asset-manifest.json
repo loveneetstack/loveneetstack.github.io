@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adf3f548.css",
+    "main.js": "/static/js/main.16da01d6.js",
+    "static/js/453.dcefe9c8.chunk.js": "/static/js/453.dcefe9c8.chunk.js",
+    "static/media/health-care.png": "/static/media/health-care.edbc9bf6c281e19b9b2b.png",
+    "static/media/home-main.svg": "/static/media/home-main.0771067e50e4c29095c8bef49912830d.svg",
+    "static/media/levelup-logo.png": "/static/media/levelup-logo.1d94669d581932020d4b.png",
+    "static/media/avatar.svg": "/static/media/avatar.4a4926d91a8f65f5cade439556eae327.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Loveneet-Singh-CV-V2-2024-ATS.pdf": "/static/media/Loveneet-Singh-CV-V2-2024-ATS.9ccdfe0b7156f42ae92a.pdf",
+    "static/media/gander.png": "/static/media/gander.fcc7c2d58dfab88313ef.png",
+    "static/media/shapenet.png": "/static/media/shapenet.7c57780fc2c306d5ad79.png",
+    "static/media/logo.png": "/static/media/logo.2a2cb563037b3c2ba6f7.png",
+    "static/media/mandy-movers-packers.png": "/static/media/mandy-movers-packers.ca1c2ac7ce0e78e3f697.png",
+    "static/media/gstbolton.jpg": "/static/media/gstbolton.08870ab6df8f20f20f3a.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.adf3f548.css.map": "/static/css/main.adf3f548.css.map",
+    "main.16da01d6.js.map": "/static/js/main.16da01d6.js.map",
+    "453.dcefe9c8.chunk.js.map": "/static/js/453.dcefe9c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf3f548.css",
+    "static/js/main.16da01d6.js"
+  ]
+}
